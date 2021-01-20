@@ -1,0 +1,48 @@
+.wrapper {
+  background-color: rgb(255 198 40);
+  border-radius: 8px;
+  width: 40rem;
+  height: 30rem;
+  margin-left: 25%;
+  overflow-y:scroll;
+  margin-top: 2rem;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(26, 26, 138);
+}
+
+.AddItemsForm {
+  width: 18rem;
+    height: 2rem;
+    margin-left: 30%;
+}
+
+#NotItems {
+  color:red;
+  text-align:center;
+  height: 10rem;
+  width: 25rem;
+  margin-left: 20%;
+}
+
+
+.done {
+  text-decoration: line-through;
+}
+
+.BtnRemoveSubList {
+  visibility: hidden;
+}
+
+.ItemsData {
+  color:rgb(10, 10, 10);
+}
+
+.wrapperItems {
+  border: 1px solid black;
+  
+  margin-top: 2rem;
+}
